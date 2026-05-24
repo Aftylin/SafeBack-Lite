@@ -15,12 +15,14 @@
 
 ## 👥 Permisos (Permissions)
 
-Para que los jugadores puedan utilizar el comando, debes añadir el siguiente permiso en el archivo de configuración de RocketMod (`Permissions.config.xml`):
+Para que los jugadores puedan utilizar el comando, debes añadir el siguiente permiso en el archivo de configuración de RocketMod (Permissions.config.xml):
 
-```xml
 <Permission Cooldown="0">back</Permission>
 
-📜 Licencia y Propiedad Intelectual
-Este proyecto es propiedad intelectual de Afty (a.k.a. Crafty) - S.E.R.A Club.
+---
 
-El uso del archivo .dll está sujeto estrictamente a los términos definidos en el archivo LICENSE. El software se distribuye exclusivamente en formato binario compilado y ofuscado; el código fuente no se proporciona bajo ninguna circunstancia, quedando prohibida su ingeniería inversa, modificación o reventa.
+## 📜 Licencia y Propiedad Intelectual
+
+Este proyecto es propiedad intelectual de **Afty (a.k.a. Crafty) - S.E.R.A Club**. 
+
+El uso del archivo `.dll` está sujeto estrictamente a los términos definidos en el archivo [LICENSE](LICENSE). El software se distribuye exclusivamente en formato binario compilado y ofuscado; el código fuente no se proporciona bajo ninguna circunstancia, quedando prohibida su ingeniería inversa, modificación o reventa.
