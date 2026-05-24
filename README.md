@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/MRlpSna.png" width="58" height="58" alt="SafeBack Lite Icon"></td>
+    <td><img src="https://i.imgur.com/cQNlEVe.png" width="64" height="64" alt="SafeBack Lite Icon"></td>
     <td><h1>SafeBack Lite</h1></td>
   </tr>
 </table>
