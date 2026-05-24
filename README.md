@@ -1,4 +1,9 @@
-# <img src="https://i.imgur.com/MRlpSna.png" width="64" height="64" align="left" style="margin-right: 10px;"> SafeBack Lite
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/MRlpSna.png" width="58" height="58" alt="SafeBack Lite Icon"></td>
+    <td><h1>SafeBack Lite</h1></td>
+  </tr>
+</table>
 
 ¡Bienvenido al repositorio oficial de **SafeBack Lite**! Este plugin está diseñado para ofrecer una experiencia de comando `/back` estable, segura y optimizada para servidores de Unturned (RocketMod).
 
