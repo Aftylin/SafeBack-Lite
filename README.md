@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/cQNlEVe.png" width="64" height="64" alt="SafeBack Lite Icon"></td>
-    <td><h1>SafeBack Lite</h1></td>
+    <td><img src="https://i.imgur.com/7UAfNuU.png" width="100" height="100" alt="SafeBack Pro Icon"></td>
+    <td><h1>SafeBack Pro</h1></td>
   </tr>
 </table>
 
