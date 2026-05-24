@@ -11,7 +11,7 @@
 - Teletransporte confiable y libre de exploits.
 - Sistema de protección anti-abuso por movimiento o daño.
 - Persistencia a prueba de fallos mediante guardado atómico en disco.
-- *(Nota: Las funciones avanzadas de mitigación de exploits en combate son exclusivas de la versión **SafeBack Pro**).*
+- *(Nota: Las funciones avanzadas son exclusivas de la versión **SafeBack Pro**).*
 
 ## 📦 Instalación
 1. Descarga el archivo `.dll` desde la sección de **Releases**.
