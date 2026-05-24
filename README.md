@@ -17,6 +17,8 @@
 
 Para que los jugadores puedan utilizar el comando, debes añadir el siguiente permiso en el archivo de configuración de RocketMod (Permissions.config.xml):
 
+---
+
 <Permission Cooldown="0">back</Permission>
 
 ---
