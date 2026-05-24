@@ -13,6 +13,13 @@
 2. Colócalo en tu carpeta `Plugins`.
 3. ¡Listo! Reinicia tu servidor.
 
+## 👥 Permisos (Permissions)
+
+Para que los jugadores puedan utilizar el comando, debes añadir el siguiente permiso en el archivo de configuración de RocketMod (`Permissions.config.xml`):
+
+```xml
+<Permission Cooldown="0">back</Permission>
+
 ---
 ## Licencia y Propiedad Intelectual
 Este proyecto es propiedad intelectual de **Afty (a.k.a. Crafty) - S.E.R.A Club**. 
