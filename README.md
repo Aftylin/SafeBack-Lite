@@ -7,7 +7,7 @@
 
 ¡Bienvenido al repositorio oficial de **SafeBack Lite**! Este plugin está diseñado para ofrecer una experiencia de comando `/back` estable, segura y optimizada para servidores de Unturned (RocketMod).
 
-## 🚀 Características
+## 📝 Características
 - Teletransporte confiable y libre de exploits.
 - Sistema de protección anti-abuso por movimiento o daño.
 - Persistencia a prueba de fallos mediante guardado atómico en disco.
