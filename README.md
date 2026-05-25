@@ -5,7 +5,9 @@
   </tr>
 </table>
 
-¡Se te da la Bienvenida al repositorio oficial de **SafeBack Lite**! Este plugin esta desarrollado bajo los más altos estándares de ingeniería para Unturned (RocketMod), ofreciendo una solución de teletransportación hacia la ultima muerte, segura, optimizada y de alta eficiencia. Su arquitectura está pensada para servidores que priorizan la estabilidad y una experiencia de usuario sin errores.
+## ¡Se te da la Bienvenida al repositorio oficial de **SafeBack Lite**! 
+
+Este plugin esta desarrollado bajo los más altos estándares de ingeniería para Unturned (RocketMod), ofreciendo una solución de teletransportación hacia la ultima muerte, segura, optimizada y de alta eficiencia. Su arquitectura está pensada para servidores que priorizan la estabilidad y una experiencia de usuario sin errores.
 
 ## 🚀 ¿Por qué elegir SafeBack Lite?
 A diferencia de otras soluciones genéricas, **SafeBack Lite** garantiza una gestión superior de las funciones esenciales para tu servidor:
