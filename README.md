@@ -7,7 +7,7 @@
 
 ## ¡Se te da la Bienvenida al repositorio oficial de **SafeBack Lite**! 
 
-Este plugin esta desarrollado bajo los más altos estándares de ingeniería para Unturned (RocketMod), ofreciendo una solución de teletransportación hacia la ultima muerte, segura, optimizada y de alta eficiencia. Su arquitectura está pensada para servidores que priorizan la estabilidad y una experiencia de usuario sin errores.
+Este plugin esta desarrollado bajo los más altos estándares de ingeniería para Unturned (RocketMod), ofreciendo una solución de teletransportación hacia la ultima muerte, segura, optimizada y de alta eficiencia. Su arquitectura está pensada para servidores que priorizan la estabilidad y una experiencia para el usuario sin errores.
 
 ## 🚀 ¿Por qué elegir SafeBack Lite?
 A diferencia de otras soluciones genéricas, **SafeBack Lite** garantiza una gestión superior de las funciones esenciales para tu servidor:
@@ -17,13 +17,7 @@ A diferencia de otras soluciones genéricas, **SafeBack Lite** garantiza una ges
 * **Seguridad anti-exploits:** Incorpora sistemas inteligentes de supervisión que validan constantemente las condiciones del jugador, eliminando riesgos de abuso y asegurando que las mecánicas del juego se respeten siempre.
 * **Eficiencia operativa:** Optimizado para operar de forma ligera y autónoma, manteniendo la base de datos limpia y organizada sin intervención manual.
 * **Versatilidad Económica (Compatible con Uconomy):** Integración nativa y fluida con cualquier ecosistema de **Uconomy**. El plugin detecta automáticamente el sistema de economía instalado, permitiendo establecer costos de teletransportación.
-
-## 📦 Instalación
-1. Descarga el archivo `.dll` desde la sección de **Releases**.
-2. Colócalo en la carpeta `Plugins` de tu servidor RocketMod.
-3. Reinicia el servidor para generar el archivo de configuración automático.
-4. *Nota: Asegúrate de tener **Uconomy** instalado en tu servidor si deseas utilizar la gestión de moneda virtual; de lo contrario, el plugin utilizará automáticamente la experiencia (EXP) como método de pago.*
-
+  
 ## 💰 Configuración Económica
 Puedes definir el costo y el método de pago directamente en el archivo `SafeBackLite.configuration.xml` generado en tu carpeta `Plugins/SafeBackLite/`.
 ```xml
@@ -40,6 +34,13 @@ Asegúrate de añadir el siguiente permiso en tu archivo `Permissions.config.xml
 ```
 <Permission Cooldown="0">back</Permission>
 ```
+
+## 📦 Instalación
+1. Descarga el archivo `.dll` desde la sección de **Releases**.
+2. Colócalo en la carpeta `Plugins` de tu servidor RocketMod.
+3. Reinicia el servidor para generar el archivo de configuración automático.
+4. *Nota: Asegúrate de tener **Uconomy** instalado en tu servidor si deseas utilizar la gestión de moneda virtual; de lo contrario, el plugin utilizará automáticamente la experiencia (EXP) como método de pago.*
+
 ## 💎 ¿Buscas el siguiente nivel? SafeBack Pro
 SafeBack Lite ofrece una base impecable para el regreso al lugar de muerte, pero si buscas potenciar la comodidad de tus jugadores, la versión SafeBack Pro desbloquea capacidades avanzadas diseñadas para entornos de alto combate:
 
